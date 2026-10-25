@@ -1,8 +1,8 @@
-   .Rproj.user/
-   .Rhistory
-   .RData
-   .Ruserdata
-   *_cache/
-   *_files/
-   Rplots.pdf
-   .DS_Store
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*_cache/
+*_files/
+Rplots.pdf
+.DS_Store
